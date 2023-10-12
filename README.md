@@ -54,7 +54,3 @@ RAM has the strongest correlation with the target variable followed by battery p
 ## Learning Outcome
 The students will get a better understanding of how the variables are linked to each other and how the EDA approach will help them gain more insights and knowledge about the data that we have and classify the data into similar groups using Naive Bayes. They will also learn about how to choose important features using Random Forest.
 
-![Image Alt Text](https://drive.google.com/file/d/1EJ2MO3frxZJIgZr_ttJ-5UrZhayw-8Ba/preview)
-
-iStockPhoto - [Link](https://www.istockphoto.com/photo/cartoon-illustration-for-fun-concept-on-mobile-phone-themes-pixel-art-vintage-style-gm1132817705-612361670)
-
